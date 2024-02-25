@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2024-02-25T23:12:15.093Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="rienrXP_15AcgJfhNtVm" version="23.1.6" type="device">
+  <diagram name="Page-1" id="G_Qpm-RB_-bgwWN1cbI8">
+    <mxGraphModel dx="1410" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="6zRH4YKI8u6p0FFYX7kL-27" value="Untitled Layer" parent="0" />
+        <mxCell id="6zRH4YKI8u6p0FFYX7kL-29" value="Webpack Bundle" style="swimlane;startSize=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="6zRH4YKI8u6p0FFYX7kL-27">
+          <mxGeometry x="280" y="95" width="330" height="200" as="geometry">
+            <mxRectangle x="280" y="95" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6zRH4YKI8u6p0FFYX7kL-17" value="Untitled Layer" parent="0" />
+        <mxCell id="6zRH4YKI8u6p0FFYX7kL-18" value="Back-end&#xa;Application" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fdz2cdn1.dzone.com%2Fstorage%2Ftemp%2F12434118-spring-boot-logo.png&amp;sp=1708895821T35d6547c095c49e6cb7b6ef33cee618a6df669e1c30dd67d288810edfa6b9c78;" vertex="1" parent="6zRH4YKI8u6p0FFYX7kL-17">
+          <mxGeometry x="160" y="160" width="78.02" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6zRH4YKI8u6p0FFYX7kL-19" value="DB" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FPostgreSQL%2FPostgreSQL-Logo.wine.png&amp;sp=1708895892Ta8cf1c5c90b3828c8d1889ffb5b3dafd6ea69c68d081efc1e7bf4ed306c8dc21;clipPath=inset(15.5% 25.67% 16% 26.33%);" vertex="1" parent="6zRH4YKI8u6p0FFYX7kL-17">
+          <mxGeometry x="10" y="154.17000000000002" width="85.83" height="81.66" as="geometry" />
+        </mxCell>
+        <mxCell id="6zRH4YKI8u6p0FFYX7kL-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6zRH4YKI8u6p0FFYX7kL-17" source="6zRH4YKI8u6p0FFYX7kL-19" target="6zRH4YKI8u6p0FFYX7kL-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="400" as="sourcePoint" />
+            <mxPoint x="520" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6zRH4YKI8u6p0FFYX7kL-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fblog.eduonix.com%2Fwp-content%2Fuploads%2F2015%2F11%2FExpress-JS-101.png&amp;sp=1708896128T2720dde4f35055a0949d50115709f644455aed9bb02395990b43f438f0c31565;clipPath=inset(16.67% 20% 20% 18.33%);" vertex="1" parent="6zRH4YKI8u6p0FFYX7kL-17">
+          <mxGeometry x="290" y="155" width="194.74" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6zRH4YKI8u6p0FFYX7kL-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6zRH4YKI8u6p0FFYX7kL-17" source="6zRH4YKI8u6p0FFYX7kL-18" target="6zRH4YKI8u6p0FFYX7kL-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="210" as="sourcePoint" />
+            <mxPoint x="310" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6zRH4YKI8u6p0FFYX7kL-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fstyles.redditmedia.com%2Ft5_2u59z4%2Fstyles%2FcommunityIcon_3wi5tbhd61181.png%3Fwidth%3D256%26s%3D5ede3220d9860ccb66b7a777e06f25274251b3ba&amp;sp=1708896223T0b14fe614862824ca736cd3e80de7c05cfdef099c89ceb80ace4d73ed2e20ef0;" vertex="1" parent="6zRH4YKI8u6p0FFYX7kL-17">
+          <mxGeometry x="520" y="115" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6zRH4YKI8u6p0FFYX7kL-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fblog.yumasoft.pl%2Fwp-content%2Fuploads%2F2021%2F02%2FBootstrap.png&amp;sp=1708896269T3a968f42fe0fa119e5f28bf8e360fa964a9523cef70229e814835303589c94f9;clipPath=inset(16% 27.67% 17% 27.67%);" vertex="1" parent="6zRH4YKI8u6p0FFYX7kL-17">
+          <mxGeometry x="520" y="205" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6zRH4YKI8u6p0FFYX7kL-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1%2AWx82vEGrMfW4AdSLodZXgQ.png&amp;sp=1708896353T29c6b2ce203f3ca3e5de286ca87a268bdb3e8f87d2e5bd92a445a5d4e37c0b10;" vertex="1" parent="6zRH4YKI8u6p0FFYX7kL-17">
+          <mxGeometry x="410" y="50" width="70" height="79.21" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
