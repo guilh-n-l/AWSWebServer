@@ -1,7 +1,7 @@
 application.properties
 .env
-/node_modules
-/dist
+*/node_modules
+*/dist
 package-lock.json
 
 HELP.md
@@ -20,17 +20,16 @@ target/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+*/.idea
 *.iws
 *.iml
 *.ipr
 
 ### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
+*/nbproject/private/
+*/nbbuild/
+*/nbdist/
+*/.nb-gradle/
+*/build/
 !**/src/main/**/build/
 !**/src/test/**/build/
