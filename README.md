@@ -29,7 +29,7 @@ To store the data without needing to maintain the database, The Relational Datab
 
 ### Preventing database breaching
 
-The user is only allowed to access the front-end part of the application, where he can interact with the database without breaching it's security. 
+The user is only allowed to access the front-end part of the application, where he can interact with the database without breaching it's security. To allow stable connection from the back-end to the front-end, an Elastic IP (Static) was associated with the back-end instance.
 
 ### Maintaining the back-end
 
