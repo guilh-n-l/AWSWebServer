@@ -1,6 +1,3 @@
-require('dotenv').config()
-const {BACKEND_URL} = process.env
-
 let format_date = (datestr) => {
     if (datestr != null) {
         const date = new Date(datestr)
@@ -23,7 +20,7 @@ let format_json = (item) =>
                 <td>${remove_nulls(item.adopted)}</td>
                 <td>
                     <div>
-                        <button hx-delete="${BACKEND_URL}/dogs/id=${item.dog_id}" class="bi bi-trash-fill btn btn-danger" id="${item.id}"></button>
+                        <button hx-delete="data/id=${item.dog_id}" class="bi bi-trash-fill btn btn-danger" id="${item.id}"></button>
                     </div>
                 </td>
             </tr>

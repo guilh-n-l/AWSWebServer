@@ -25,7 +25,7 @@ module.exports = {
   },
   plugins: [
     new Dotenv({
-      path: '<.env directory>'
+      path: '/mnt/server/config/.env'
     })
   ]
 };
