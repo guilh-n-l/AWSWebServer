@@ -53,7 +53,7 @@ The database service used in RDS was PostgreSQL, it is used to store the followi
 
 ### Back-end
 
-The back-end of the application was design in java using the SpringBoot framework using the Model Viewer Controller (MVC) design pattern.
+The back-end of the application was designed in java using the SpringBoot framework using the Model Viewer Controller (MVC) design pattern.
 
 ### Front-end
 
